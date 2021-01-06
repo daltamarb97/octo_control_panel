@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "octo-work": {
+      "hosting": {
+        "octo-control-panel": [
+          "octo-work"
+        ]
+      }
+    }
+  }
+}
